@@ -17,3 +17,5 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+
+# this file was used to debug camera issues
